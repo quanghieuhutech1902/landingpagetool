@@ -1,0 +1,126 @@
+html,
+body,
+.mw500 {
+    max-width: 500px !important;
+    margin: 0 auto;
+}
+
+html {
+    box-shadow: 0px 0px 3px 0px #009688;
+}
+
+.midimg {
+    vertical-align: middle;
+}
+
+.boxshow {
+    box-shadow: 0px 0px 3px 0px #009688;
+}
+
+.boxshow:hover {
+    box-shadow: 0px 0px 10px 0px #00BCD4;
+}
+
+.w3-cell-row {
+    margin-top: 12px;
+}
+
+h3 {
+    font-size: 1.2em !important;
+    font-weight: bold !important;
+}
+
+.w3-container,
+.w3-panel {
+    padding: 0.01em 5px !important;
+}
+
+.w3-circle {
+    border-radius: 0px !important;
+    width: 100% !important;
+    max-height: 2400px !important;
+}
+
+.title {
+    margin-top: 15px;
+    color: #607D8B;
+}
+
+.w3-button:hover {
+    color: #fff!important;
+    background-color: #009688!important;
+}
+
+.w3-bar-block .w3-bar-item {
+    line-height: 27px !important;
+}
+
+span.w3-button.w3-display-topright.w3-large {
+    background-color: #FF9800 !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+
+/* Thanh taskbar - FOOOTER */
+
+.bottom-contact {
+    display: none
+}
+
+.bottom-contact {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    background: white;
+    width: 100%;
+    z-index: 99;
+    box-shadow: 2px 1px 9px #dedede;
+    border-top: 1px solid #eaeaea;
+}
+
+.bottom-contact ul li {
+    width: 25%;
+    float: left;
+    list-style: none;
+    text-align: center;
+    font-size: 13.5px;
+}
+
+.bottom-contact ul li span {
+    color: black
+}
+
+.bottom-contact ul li span:hover {
+    color: #009688
+}
+
+.bottom-contact ul li img {
+    width: 35px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.w3-container ul li {
+    width: 25%;
+    float: left;
+    list-style: none;
+    text-align: center;
+    font-size: 13.5px;
+}
+
+.w3-container ul li span {
+    color: black
+}
+
+.w3-container ul li span:hover {
+    color: #009688
+}
+
+.w3-container ul li img {
+    width: 35px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
